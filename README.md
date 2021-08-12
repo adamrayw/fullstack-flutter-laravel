@@ -2,6 +2,10 @@
 
 Flutter e-commerce app, with laravel as backend.
 
+# Try the app
+
+Under development.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
