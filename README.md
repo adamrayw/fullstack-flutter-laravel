@@ -1,4 +1,4 @@
-# shamo
+# Shamo
 
 A new Flutter project.
 
