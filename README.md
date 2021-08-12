@@ -1,6 +1,6 @@
 # Shamo
 
-A new Flutter project.
+Flutter e-commerce app, with laravel as backend.
 
 ## Getting Started
 
